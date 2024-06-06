@@ -1,3 +1,12 @@
+---
+layout: post
+titles: "test1 markdown测试网页"
+ahther: young
+header-style: text
+catalog: true
+---
+
+
 # 欢迎来到我的页面
 
 这是一个简单的 Markdown 文本示例，用于展示基本的 Markdown 语法。
